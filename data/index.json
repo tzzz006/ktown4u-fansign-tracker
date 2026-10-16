@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T01:29:04+00:00",
+ "updatedAt": "2026-10-16T05:06:36+00:00",
  "platforms": [
   {
    "id": "ktown4u",
@@ -525,6 +525,17 @@
      "hasSummary": true,
      "total": 1666344,
      "members": 51
+    },
+    {
+     "eventNo": "44547419",
+     "title": "xikers",
+     "description": "On / Off-line Video Call",
+     "start": "2026-10-16 11:00:00.0",
+     "end": "2026-10-20 00:00:00.0",
+     "autofound": true,
+     "status": "upcoming",
+     "tracked": false,
+     "hasSummary": false
     }
    ]
   },
