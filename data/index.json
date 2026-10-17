@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-17T08:53:13+00:00",
+ "updatedAt": "2026-10-17T12:13:35+00:00",
  "platforms": [
   {
    "id": "ktown4u",
@@ -16,8 +16,21 @@
      "status": "live",
      "tracked": true,
      "hasSummary": false,
-     "total": 3555,
+     "total": 3557,
      "members": 28
+    },
+    {
+     "eventNo": "44546738",
+     "title": "NEXZ(넥스지)",
+     "description": "On / Off-line Sign Event",
+     "start": "2026-10-17 10:00:00.0",
+     "end": "2026-10-20 00:00:00.0",
+     "autofound": true,
+     "status": "live",
+     "tracked": true,
+     "hasSummary": false,
+     "total": 62878,
+     "members": 14
     },
     {
      "eventNo": "44469917",
@@ -538,17 +551,6 @@
      "hasSummary": true,
      "total": 1666344,
      "members": 51
-    },
-    {
-     "eventNo": "44546738",
-     "title": "NEXZ(넥스지)",
-     "description": "On / Off-line Sign Event",
-     "start": "2026-10-17 10:00:00.0",
-     "end": "2026-10-20 00:00:00.0",
-     "autofound": true,
-     "status": "upcoming",
-     "tracked": false,
-     "hasSummary": false
     },
     {
      "eventNo": "44547623",
