@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T08:17:29+00:00",
+ "updatedAt": "2026-10-19T14:56:46+00:00",
  "platforms": [
   {
    "id": "ktown4u",
@@ -16,7 +16,7 @@
      "status": "live",
      "tracked": true,
      "hasSummary": false,
-     "total": 3559,
+     "total": 3570,
      "members": 28
     },
     {
@@ -29,7 +29,7 @@
      "status": "live",
      "tracked": true,
      "hasSummary": false,
-     "total": 62882,
+     "total": 62886,
      "members": 14
     },
     {
@@ -577,6 +577,28 @@
      "hasSummary": true,
      "total": 1666344,
      "members": 51
+    },
+    {
+     "eventNo": "44548531",
+     "title": "NCT WISH",
+     "description": "Video Call Event",
+     "start": "2026-10-19 18:00:00.0",
+     "end": "2026-10-21 18:00:00.0",
+     "autofound": true,
+     "status": "upcoming",
+     "tracked": false,
+     "hasSummary": false
+    },
+    {
+     "eventNo": "44547014",
+     "title": "MAX CHANGMIN",
+     "description": "Special Photo Event & Sign Event",
+     "start": "2026-10-19 19:00:00.0",
+     "end": "2026-10-22 00:00:00.0",
+     "autofound": true,
+     "status": "upcoming",
+     "tracked": false,
+     "hasSummary": false
     }
    ]
   },
