@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-22T12:11:55+00:00",
+ "updatedAt": "2026-10-22T16:00:00+00:00",
  "platforms": [
   {
    "id": "ktown4u",
@@ -16,8 +16,21 @@
      "status": "live",
      "tracked": true,
      "hasSummary": false,
-     "total": 1964,
+     "total": 1980,
      "members": 3
+    },
+    {
+     "eventNo": "44550217",
+     "title": "KickFlip",
+     "description": "On / Off-line Sign Event",
+     "start": "2026-10-22 15:00:00.0",
+     "end": "2026-10-25 00:00:00.0",
+     "autofound": true,
+     "status": "live",
+     "tracked": true,
+     "hasSummary": false,
+     "total": 9786,
+     "members": 19
     },
     {
      "eventNo": "44469917",
@@ -616,17 +629,6 @@
      "hasSummary": true,
      "total": 0,
      "members": 2
-    },
-    {
-     "eventNo": "44550217",
-     "title": "KickFlip",
-     "description": "On / Off-line Sign Event",
-     "start": "2026-10-22 15:00:00.0",
-     "end": "2026-10-25 00:00:00.0",
-     "autofound": true,
-     "status": "upcoming",
-     "tracked": false,
-     "hasSummary": false
     }
    ]
   },
